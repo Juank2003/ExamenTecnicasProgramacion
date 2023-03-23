@@ -1,2 +1,6 @@
-package Practica1;public class Matematicas {
+package Practica1;
+
+import java.util.Random;
+
+public class Matematicas {
 }
